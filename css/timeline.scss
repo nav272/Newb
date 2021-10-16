@@ -1,5 +1,7 @@
 ---
 ---
+@import "variables";
+@import "mixins";
 
 .timeline {
     position: relative;
@@ -63,11 +65,11 @@
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    border: 7px solid $primary-color;
     border-radius: 100%;
     text-align: center;
-    color: #fff;
-    background-color: #f1f1f1;
+    color: $font-color;
+    background-color: $primary-color;
 }
 
 .img-me {
