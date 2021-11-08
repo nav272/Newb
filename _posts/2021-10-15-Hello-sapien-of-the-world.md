@@ -7,7 +7,7 @@ tags: [ 'sapiens', 'tech' ]
 ---
 
 
-```
+```java
 hello Sapiens of the world
 Humans took a really long time to get started on the changes they need to make. 
 ```
